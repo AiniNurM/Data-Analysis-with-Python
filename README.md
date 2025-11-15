@@ -153,7 +153,7 @@ _for December 2024 period_
 :five:**Conversions were stable, but cost per conversion dropped at the end of the month, indicating increased efficiency.**  
 :six:**Costs decreased at the end but the CPC was quite stable, indicating that spending was quite controlled.**  
 :seven:**For the top campaign, all relevant ads had stable CTR values, ranging from 5-6%. The average CPS for all campaigns was below 2%. All ads performed well, with no outliers.**  
-:eight:**While most traffic comes from mobile, desktop has a higher conversion rate. Consider allocating a slightly larger budget to desktop for optimal results..**  
+:eight:**Desktop is more efficient because the conversion value is higher even though the click results are low, so the budget can be focused primarily on desktop pages.**  
 
 :toolbox:**5.TECH STACK**  
 	:ballot_box_with_check:1. Python (Pandas, Matplotlib, Numpy, Seaborn)  
